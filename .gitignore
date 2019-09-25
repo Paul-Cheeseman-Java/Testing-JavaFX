@@ -1,0 +1,6 @@
+#Ignore any Java files
+*.java
+
+#Ignore folder 
+out/
+idea/
