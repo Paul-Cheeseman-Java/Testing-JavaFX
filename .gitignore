@@ -1,7 +1,7 @@
 #What to limit to only source upload (stripping out all IntelliJ files)
 
 #Ignore any Java files
-*.java
+*.class
 
 #Ignore any iml files
 *.iml
